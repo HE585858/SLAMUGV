@@ -1,0 +1,43 @@
+ 油门.方向遥杆：  
+   油门 X-ADC1-PA0
+   油门 Y-ADC2-PA1
+   方向 X-ADC3-PA2
+   方向 y-ADC4-PA3
+   
+ LED灯：
+   RGBLED-PB9
+   USERLED1-PC13
+   
+   
+ 独立按键：
+    KEY1-PB15
+	KEY2-PB14
+	KEY3-PB13
+	KEY4-PB12
+SWD调试接口：
+   SWDIO-PA13
+   SWCLK-PA14
+ OLED屏接口：
+   SCL-PB6
+   SDA-PB7
+ 扩展端口：
+      -PB5
+	  -PB4
+	  -PB3
+      -PB8
+      -PA15
+      -PC14
+      -PC15
+      -PA8
+扩展串口：
+      U1-RX-PA10
+	  U1-TX-PA9
+      U3-RX-PB11
+	  U3-TX-PA10
+2.4G模块：
+      NRF_IRQ-PB1
+	  SPI1_MOSI-PA7
+	  NRF_CSN-PA4
+	  SPI1_MISO-PA6
+	  SPI_SCK-PA5
+	  NRF_CE-PB0
